@@ -1,5 +1,5 @@
 # Employee-Directory
-This is a fitness tracker app it is used to track your fitness like no sets, km run, sets done, type of excercise etc.
+This is employee directory used to browse different employees for their basic info
 
 ## Installation
 Git clone the repo on your local computer and write npm i in Git bash shell.
