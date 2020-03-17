@@ -2,7 +2,7 @@
 This is employee directory used to browse different employees for their basic info
 
 ## Installation
-Git clone the repo on your local computer and write npm i in Git bash shell.
+Git clone the repo on your local computer and write npm i in Git bash shell. or use this link https://employee--directory.herokuapp.com/
 
 
 ## Usage 
